@@ -7,8 +7,6 @@ Features
 📚 Detailed Documentation: Step-by-step guides and comments to help you understand and replicate the analyses.
 🛠️ Custom Tools & Functions: Handy utility functions to streamline your data workflow.
 🚀 Machine Learning Models: Implementations of popular ML algorithms with practical examples.
-Getting Started
-Clone the Repository: git clone https://github.com/usmanghani-10/data-scinece-analysis-visualization.git
 Contributions Welcome! 🤝
 Feel free to open issues, submit pull requests, or suggest new features. Let's collaborate and make data more accessible and enjoyable for everyone!
 
