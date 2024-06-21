@@ -8,9 +8,7 @@ Features
 🛠️ Custom Tools & Functions: Handy utility functions to streamline your data workflow.
 🚀 Machine Learning Models: Implementations of popular ML algorithms with practical examples.
 Getting Started
-Clone the Repository: git clone https://github.com/yourusername/data-analysis-visualization.git
-Install Dependencies: pip install -r requirements.txt
-Explore the Notebooks: Check out the Jupyter notebooks in the notebooks directory for various analysis and visualization projects.
+Clone the Repository: git clone https://github.com/usmanghani-10/data-scinece-analysis-visualization.git
 Contributions Welcome! 🤝
 Feel free to open issues, submit pull requests, or suggest new features. Let's collaborate and make data more accessible and enjoyable for everyone!
 
